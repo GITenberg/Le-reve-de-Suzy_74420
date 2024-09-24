@@ -1,0 +1,33 @@
+_repo: Le-reve-de-Suzy_74420
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ardel, Henri
+    aliases:
+    - Abraham, Berthe
+    - Ardel, Henry
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '34968'
+    url: http://www.gutenberg.org/2009/agents/34968
+    wikipedia: https://fr.wikipedia.org/wiki/Henri_Ardel
+description: ''
+gutenberg_issued: '2024-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74420'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89009676784
+pgterms:marc905: 20240206151836ardel
+pgterms:marc906: '1914'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bPlon, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le rêve de Suzy
+url: http://www.gutenberg.org/ebooks/74420
